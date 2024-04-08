@@ -1,0 +1,14 @@
+.assistance-container{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 25%;
+    width: 50%;
+}
+
+.tabs-container{
+    justify-content: space-evenly;
+    align-items: center;
+}

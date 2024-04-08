@@ -1,0 +1,10 @@
+.landing-container{
+    position: absolute;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
