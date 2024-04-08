@@ -12,7 +12,7 @@ const LandingPage = () =>{
     }
     return(
         <div className={`bg-slate-950 ${classes['landing-container']}`}>
-            <LampContainer className='mt-[7%]'>
+            <LampContainer className='mt-[8%]'>
                 <motion.h1
                     initial={{ opacity: 0.5, y: 200 }}
                     whileInView={{ opacity: 1, y: 0 }}
